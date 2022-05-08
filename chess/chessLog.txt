@@ -1,0 +1,113 @@
+c2 goes to c4
+a7 goes to a6
+d2 goes to d4
+a6 goes to a5
+e2 goes to e4
+a5 goes to a4
+b2 goes to b3
+b7 goes to b6
+b3 takes a4
+b6 goes to b5
+a4 takes b5
+c7 goes to c6
+b5 takes c6
+d7 goes to d6
+c6 goes to c7
+h7 goes to h6
+c7 takes d8
+e8 takes d8
+d4 goes to d5
+g8 goes to f6
+e4 goes to e5
+d6 takes e5
+d5 goes to d6
+h8 goes to h7
+d6 takes e7
+d8 goes to e8
+c4 goes to c5
+e5 goes to e4
+c5 goes to c6
+e4 goes to e3
+f2 takes e3
+f6 goes to g8
+e3 goes to e4
+e8 takes e7
+e4 goes to e5
+h6 goes to h5
+g2 goes to g3
+g8 goes to f6
+f1 goes to b5
+h5 goes to h4
+b5 goes to a6
+e7 goes to e8
+a2 goes to a4
+h4 goes to h3
+g1 takes h3
+f6 goes to g8
+a6 takes c8
+f7 goes to f6
+e5 takes f6
+g7 goes to g6
+g3 goes to g4
+g6 goes to g5
+h3 takes g5
+f8 goes to e7
+f6 takes e7
+h7 goes to h8
+g5 goes to f7
+a8 goes to a7
+c6 goes to c7
+b8 goes to a6
+c8 takes a6
+g8 goes to f6
+g4 goes to g5
+f6 goes to g8
+g5 goes to g6
+a7 goes to a8
+g6 goes to g7
+a8 goes to a7
+c7 goes to c8
+e8 takes e7
+c8 goes to e8
+e7 takes e8
+d1 goes to d6
+a7 goes to a8
+d6 goes to e6
+g8 goes to e7
+e6 takes e7
+e8 takes e7
+a6 goes to c8
+e7 goes to e8
+g7 goes to g8
+e8 goes to e7
+e1 goes to e2
+h8 goes to h7
+e2 goes to e3
+e7 goes to f6
+e3 goes to e4
+f6 goes to e7
+e4 goes to e5
+h7 goes to h8
+e5 goes to f5
+a8 goes to a7
+g8 goes to e8
+e7 takes e8
+c8 goes to e6
+a7 goes to a8
+b1 goes to c3
+a8 goes to a7
+c3 goes to b5
+a7 goes to a8
+b5 goes to c7
+e8 goes to e7
+c7 takes a8
+e7 goes to e8
+a8 goes to c7
+e8 goes to e7
+c7 goes to d5
+e7 goes to e8
+h2 goes to h3
+e8 goes to f8
+h3 goes to h4
+f8 goes to g8
+h4 goes to h5
